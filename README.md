@@ -1,2 +1,2 @@
 # Cryto_price_prediction
-Predicts if price of crypto currency will increase or decrease
+Trading bot, tells you if you should sell or buy a crypto currency
